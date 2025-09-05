@@ -15,7 +15,8 @@ Electronic + Commerce : 전자 + 상거래
 
 **초저가 소비(국내 이커머스, C커머스) VS 가치 소비(스포츠 이커머스, 중고거래 이커머스)**</br></br>
 **스포츠이커머스 나이키**</br>
-<전략>
+
+**<전략>**
 1. 디지털 판매 채널 강화
 2. 소비자(고객) 데이터 기반의 개인화
 3. 옴니채널 운영
@@ -51,5 +52,5 @@ Parley for the Oceans와 협력</br></br>
 직접 소비자 모델 외에도 Walmart, Target, Foot Locker 및 Dillard's와 같은 주요 소매업체와 강력한 관계를 유지</br></br>
 
 
-<SWOT 분석>
+**<SWOT 분석>**
 <img width="997" height="405" alt="image" src="https://github.com/user-attachments/assets/6fc6a4b8-96a6-4124-9e3c-966c554f1424" />
